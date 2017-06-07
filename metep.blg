@@ -1,6 +1,52 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: metep.aux
+This is BibTeX, Version 0.99d (TeX Live 2014)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: metep.aux
 The style file: plain.bst
 Database file #1: referencias.bib
+Warning--empty booktitle in isotani:2014
+Warning--empty year in isotani:2014
 Warning--empty booktitle in dixon:2011
 Warning--empty journal in hamari:2014
-(There were 2 warnings)
+Warning--empty journal in huang:2013
+You've used 6 entries,
+            2118 wiz_defined-function locations,
+            528 strings with 5004 characters,
+and the built_in function-call counts, 1700 in all, are:
+= -- 144
+> -- 108
+< -- 0
++ -- 44
+- -- 36
+* -- 112
+:= -- 309
+add.period$ -- 17
+call.type$ -- 6
+change.case$ -- 36
+chr.to.int$ -- 0
+cite$ -- 11
+duplicate$ -- 66
+empty$ -- 121
+format.name$ -- 36
+if$ -- 331
+int.to.chr$ -- 0
+int.to.str$ -- 6
+missing$ -- 6
+newline$ -- 32
+num.names$ -- 12
+pop$ -- 52
+preamble$ -- 1
+purify$ -- 30
+quote$ -- 0
+skip$ -- 44
+stack$ -- 0
+substring$ -- 32
+swap$ -- 4
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 24
+warning$ -- 5
+while$ -- 12
+width$ -- 7
+write$ -- 56
+(There were 5 warnings)
