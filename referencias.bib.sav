@@ -23,6 +23,14 @@
   crossref = {fie:2016},
 }
 
+@InProceedings{morrison:2014,
+  author   = {Briana B. Morrison and Betsy DiSalvo},
+  title    = {Khan academy gamifies computer science},
+  year     = {2014},
+  month    = {Março},
+  crossref = {sigcse:2014},
+}
+
 @Article{cardoso:2014,
   author  = {Cardoso, Ines and Carvalho, Ana},
   title   = {Gamificação: uma oportunidade para envolver alunos na aprendizagem},
@@ -76,6 +84,22 @@
   address   = {Eire, PA, USA},
   month     = {Dezembro},
   publisher = {IEEE},
+}
+
+@Proceedings{sigcse:2014,
+  title   = {Proceedings of the 45th ACM technical symposium on Computer science education},
+  year    = {2014},
+  address = {Atlanta, Georgia, USA},
+  month   = {Março},
+}
+
+@Article{ibanez:2014,
+  author  = {María-Blanca Ibáñez and Ángela Di-Serio and Carlos Delgado-Kloos},
+  title   = {Gamification for Engaging Computer Science Students in Learning Activities: A Case Study},
+  journal = {IEEE Transactions on Learning Technologies},
+  year    = {2014},
+  volume  = {7},
+  month   = {Julho},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

@@ -15,6 +15,22 @@
   crossref = {eaohfics:2011},
 }
 
+@Article{oliveira:2016,
+  author   = {Felipe Soares de Oliveira and Simone Santos},
+  title    = {A virtual learning environment for the implementation of problem-based learning approach in Computer education},
+  year     = {2016},
+  month    = {Dezembro},
+  crossref = {fie:2016},
+}
+
+@InProceedings{morrison:2014,
+  author   = {Briana B. Morrison and Betsy DiSalvo},
+  title    = {Khan academy gamifies computer science},
+  year     = {2014},
+  month    = {Março},
+  crossref = {sigcse:2014},
+}
+
 @Article{cardoso:2014,
   author  = {Cardoso, Ines and Carvalho, Ana},
   title   = {Gamificação: uma oportunidade para envolver alunos na aprendizagem},
@@ -52,6 +68,7 @@
 @InProceedings{isotani:2014,
   author = {Simone de Sousa Borges and Vinicius H. S. Durelli and Helena Macedo Reis and Seiji Isotani},
   title  = {A systematic mapping on gamification applied to education},
+  year   = {2014},
 }
 
 @Proceedings{potaasoac:2014,
@@ -59,6 +76,29 @@
   year    = {2014},
   address = {Gyeongju, Republic of Korea},
   month   = {Março},
+}
+
+@Conference{fie:2016,
+  title     = {Frontiers in Education Conference (FIE)},
+  year      = {2016},
+  address   = {Eire, PA, USA},
+  month     = {Dezembro},
+  publisher = {IEEE},
+}
+
+@Proceedings{sigcse:2014,
+  title   = {Proceedings of the 45th ACM technical symposium on Computer science education},
+  year    = {2014},
+  address = {Atlanta, Georgia, USA},
+  month   = {Março},
+}
+
+@Article{ibanez:2014,
+  author  = {María-Blanca Ibáñez and Ángela Di-Serio and Carlos Delgado-Kloos},
+  title   = {Gamification for Engaging Computer Science Students in Learning Activities: A Case Study},
+  journal = {Gamification for Engaging Computer Science Students in Learning Activities: A Case Study},
+  year    = {2014},
+  month   = {Julho},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
